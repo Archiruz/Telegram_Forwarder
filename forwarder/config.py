@@ -6,7 +6,7 @@ class Development(Config):
     OWNER_ID = 888449576  # Your user id
 
     # Make sure to include the '-' sign in group and channel ids.
-    FROM_CHATS = [-1001234567890]  # List of chat id's to forward messages from.
-    TO_CHATS = [-1001453770633]  # List of chat id's to forward messages to.
+    FROM_CHATS = [-1001453770633]  # List of chat id's to forward messages from.
+    TO_CHATS = [-1001306288774]  # List of chat id's to forward messages to.
     
     WORKERS = 4
